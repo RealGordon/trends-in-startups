@@ -10,4 +10,4 @@ Write queries with aggregate functions to retrieve some interesting insights abo
 
 ## Project
 
-This project contains queries with aggregate functions to retrieve some interesting insights about these companies.
+This project contains queries with aggregate functions to retrieve some interesting insights about these companies using the sqlite language.
